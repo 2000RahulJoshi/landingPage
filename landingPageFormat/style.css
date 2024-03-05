@@ -53,7 +53,11 @@
     margin-left: 45px;
 }
 
-.anchorFirst{
+/* .anchorFirst{
+    border-bottom: 2px solid #c99639;
+} */
+
+a:hover{
     border-bottom: 2px solid #c99639;
 }
 
@@ -160,20 +164,20 @@
 
 .empImage{
     position: relative;
-    margin-left: 627px;
+    margin-left: 637px;
     margin-top: -452px;
     z-index: 1000;
 }
 
 .empBackground1{
     position: relative;
-    margin-left: 644px;
+    margin-left: 654px;
     margin-top: -353px;
 }
 
 .empBackground2{
     position: relative;
-    margin-left: 659px;
+    margin-left: 669px;
     margin-top: -259px;
     z-index: 500;
 }
